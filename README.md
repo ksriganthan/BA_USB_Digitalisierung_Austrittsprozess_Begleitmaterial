@@ -38,7 +38,7 @@ Im Projektverlauf eingesetzte Foliensätze:
 
 ## Zitation
 
-Sriganthan, K. (2026). *Begleitmaterial zur Bachelorarbeit: Digitalisierung des Austrittsprozesses am Universitätsspital Basel* [Datensatz]. GitHub. URL des Repositorys.
+Sriganthan, K. (2026). *Begleitmaterial zur Bachelorarbeit: Digitalisierung des Austrittsprozesses am Universitätsspital Basel* [Datensatz]. GitHub. [URL des Repositorys](https://github.com/ksriganthan/BA_USB_Digitalisierung_Austrittsprozess_Begleitmaterial.git).
 
 ## Lizenz / Hinweis
 
