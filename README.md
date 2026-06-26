@@ -11,7 +11,7 @@ Dieses Repository enthält das digitale Begleitmaterial zur Bachelorarbeit. Es u
 
 ### `bpmn-modelle/`
 
-Validierte IST-Prozessmodelle des Austrittsprozesses je Austrittstyp (BPMN 2.0, modelliert mit Camunda Modeler). Die Modelle sind die massgebliche Grundlage der IST-Analyse (Kapitel 6).
+Validierte IST-Prozessmodelle des Austrittsprozesses (BPMN 2.0, modelliert mit Camunda Modeler). Die Modelle sind die massgebliche Grundlage der IST-Analyse (Kapitel 6).
 
 | Datei | Austrittstyp | Bereich |
 |---|---|---|
