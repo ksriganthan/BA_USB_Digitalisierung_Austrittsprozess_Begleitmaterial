@@ -15,12 +15,12 @@ Validierte IST-Prozessmodelle des Austrittsprozesses (BPMN 2.0, modelliert mit C
 
 | Datei | Austrittstyp | Bereich |
 |---|---|---|
-| `01_Kuendigung-Aufloesung_AuW.bpmn` | Kündigung / Auflösungsvereinbarung | Aus- und Weiterbildung (AuW) |
-| `02_Vertragsablauf_AuW.bpmn` | Vertragsablauf (Einzelarbeitsvertrag) | Aus- und Weiterbildung (AuW) |
-| `03_Kuendigung-MA_USB-Fonds.bpmn` | Kündigung durch Mitarbeitende | USB / Fonds (Drittmittel) |
-| `04_KuendigungAG-Aufloesung_USB-Fonds.bpmn` | Kündigung durch Arbeitgeber / Auflösungsvereinbarung | USB / Fonds (Drittmittel) |
-| `05_Vertragsablauf_USB-Fonds.bpmn` | Vertragsablauf | USB / Fonds (Drittmittel) |
-| `06_Pensionierung_USB-Fonds.bpmn` | Ordentliche / frühzeitige Pensionierung | USB / Fonds (Drittmittel) |
+| `Kündigung Auflösung_AuW.bpmn` | Kündigung / Auflösungsvereinbarung | Aus- und Weiterbildung (AuW) |
+| `KündigungAG_Auflösung_USB_Fonds.bpmn` | Kündigung durch Arbeitgeber / Auflösungsvereinbarung | USB / Fonds (Drittmittel) |
+| `Kündigung_MA_USB_Fonds.bpmn` | Kündigung durch Mitarbeitende | USB / Fonds (Drittmittel) |
+| `Pensionierung_USB_Fonds.bpmn` | Ordentliche / frühzeitige Pensionierung | USB / Fonds (Drittmittel) |
+| `Vertragsablauf_AuW.bpmn` | Vertragsablauf (Einzelarbeitsvertrag) | Aus- und Weiterbildung (AuW) |
+| `Vertragsablauf_USB_Fonds.bpmn` | Vertragsablauf | USB / Fonds (Drittmittel) |
 
 Die `.bpmn`-Dateien lassen sich mit jedem BPMN-2.0-Werkzeug öffnen (empfohlen: [Camunda Modeler](https://camunda.com/download/modeler/), kostenfrei). Zur reinen Ansicht ohne Installation eignet sich [bpmn.io](https://demo.bpmn.io).
 
